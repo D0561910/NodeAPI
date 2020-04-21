@@ -1,7 +1,6 @@
 # NodeAPI
 
-## Missing Folder is config 
-## Inside config Folder have two 
+## Missing Folder is config
 ## ./config/firebase.config.js
 
 ```javascript
